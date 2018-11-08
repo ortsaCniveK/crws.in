@@ -1,7 +1,6 @@
 import React from "react";
-import pic from './map.jpg';
 
 const Map = () => (
-  <img src={pic} />
+  <img src="./map.jpg" />
 )
 export default Map;
